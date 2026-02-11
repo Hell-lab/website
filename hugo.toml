@@ -1,4 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = "https://hack-mas.at"
+title = "Håck ma's!"
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = false
+[languages]
+
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
