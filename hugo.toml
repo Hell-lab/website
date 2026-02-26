@@ -2,8 +2,16 @@ baseURL = "https://hack-mas.at"
 title = "Håck ma's!"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
-[languages]
 
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params.label]
+  text = ""
+  icon = "/images/kraken.svg"
+  iconHeight = 50
+
+[languages]
   [languages.de]
     languageName = "Deutsch"
     weight = 1
@@ -11,3 +19,63 @@ defaultContentLanguageInSubdir = false
   [languages.en]
     languageName = "English"
     weight = 2
+
+[[menu.main]]
+name = "FAQ"
+url = "/faq/"
+weight = 2
+
+[[menu.main]]
+name = "Tickets"
+url = "/tickets/"
+weight = 3
+
+[[menu.main]]
+name = "Team"
+url = "/team/"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+[[menu.side]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.side]]
+name = "Code of Conduct"
+url = "/codeofconduct/"
+weight = 2
+
+[[menu.side]]
+name = "Accesssibility"
+url = "/accesssibility/"
+weight = 3
+
+[[menu.side]]
+name = "Tickets"
+url = "/tickets/"
+weight = 4
+
+[[menu.side]]
+name = "Mitmachen & Mitbringen"
+url = "/mitmachen/"
+weight = 5
+
+[[menu.side]]
+name = "Anreise"
+url = "/anreise/"
+weight = 6
+
+[[menu.side]]
+name = "Übernachtung"
+url = "/uebernachtung/"
+weight = 7
+
+[[menu.side]]
+name = "FAQ"
+url = "/faq/"
+weight = 8
