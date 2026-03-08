@@ -11,6 +11,10 @@ enableRobotsTXT = true
   icon = "/images/kraken.svg"
   iconHeight = 50
 
+[params.author]
+  name = "Your Name"
+  email = "you@example.com"
+
 [languages]
   [languages.de]
     languageName = "Deutsch"
@@ -20,62 +24,123 @@ enableRobotsTXT = true
     languageName = "English"
     weight = 2
 
-[[menu.main]]
+[[languages.de.menu.main]]
 name = "FAQ"
 url = "/faq/"
 weight = 2
 
-[[menu.main]]
+[[languages.de.menu.main]]
 name = "Tickets"
 url = "/tickets/"
 weight = 3
 
-[[menu.main]]
+[[languages.de.menu.main]]
 name = "Team"
 url = "/team/"
 weight = 4
 
-[[menu.main]]
-name = "Contact"
+[[languages.de.menu.main]]
+name = "Kontakt"
 url = "/contact/"
 weight = 5
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Home"
 url = "/"
 weight = 1
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Code of Conduct"
 url = "/codeofconduct/"
 weight = 2
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Accesssibility"
 url = "/accesssibility/"
 weight = 3
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Tickets"
 url = "/tickets/"
 weight = 4
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Mitmachen & Mitbringen"
 url = "/mitmachen/"
 weight = 5
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Anreise"
 url = "/anreise/"
 weight = 6
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "Übernachtung"
 url = "/uebernachtung/"
 weight = 7
 
-[[menu.side]]
+[[languages.de.menu.side]]
 name = "FAQ"
 url = "/faq/"
+weight = 8
+
+
+[[languages.en.menu.main]]
+name = "FAQ"
+url = "/en/faq/"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "Tickets"
+url = "/en/tickets/"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Team"
+url = "/en/team/"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Contact"
+url = "/en/contact/"
+weight = 5
+
+[[languages.en.menu.side]]
+name = "Home"
+url = "/en/"
+weight = 1
+
+[[languages.en.menu.side]]
+name = "Code of Conduct"
+url = "/en/codeofconduct/"
+weight = 2
+
+[[languages.en.menu.side]]
+name = "Accesssibility"
+url = "/en/accesssibility/"
+weight = 3
+
+[[languages.en.menu.side]]
+name = "Tickets"
+url = "/en/tickets/"
+weight = 4
+
+[[languages.en.menu.side]]
+name = "Perticipate"
+url = "/en/mitmachen/"
+weight = 5
+
+[[languages.en.menu.side]]
+name = "Arrival"
+url = "/en/anreise/"
+weight = 6
+
+[[languages.en.menu.side]]
+name = "Overnight Stay"
+url = "/en/uebernachtung/"
+weight = 7
+
+[[languages.en.menu.side]]
+name = "FAQ"
+url = "/en/faq/"
 weight = 8
