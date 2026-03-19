@@ -1,0 +1,12 @@
+<a class="preview-box" href="{{ .Get "href" }}">
+  <div class="preview-box-inner">
+    <h3>{{ .Get "title" }}</h3>
+    {{ with .Get "img" }}
+  {{ $img := resources.Get . }}
+  {{ with $img }}
+    <img class="preview-box-image" src="{{ .RelPermalink }}" alt="">
+  {{ end }}
+{{ end }}
+    <p>{{ .Get "text" }}</p>
+  </div>
+</a>
