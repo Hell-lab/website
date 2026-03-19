@@ -6,14 +6,17 @@ defaultContentLanguageInSubdir = false
 theme = "PaperMod"
 enableRobotsTXT = true
 
+[params]
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  mainSections = ["posts"]
+  ShowRelatedContent = false
+  ShowPostNavLinks = false
+
 [params.label]
   text = ""
   icon = "/images/kraken.svg"
   iconHeight = 50
-
-[params.author]
-  name = "Your Name"
-  email = "you@example.com"
 
 [languages]
   [languages.de]
@@ -25,7 +28,7 @@ enableRobotsTXT = true
     weight = 2
 
 [[languages.de.menu.main]]
-name = "FAQ"
+name = "FAQ" 
 url = "/faq/"
 weight = 2
 
@@ -126,7 +129,7 @@ url = "/en/tickets/"
 weight = 4
 
 [[languages.en.menu.side]]
-name = "Perticipate"
+name = "Participate"
 url = "/en/mitmachen/"
 weight = 5
 
