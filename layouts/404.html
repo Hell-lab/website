@@ -1,0 +1,7 @@
+{{- define "main" }}
+<div class="not-found">
+    {{ $img := resources.Get "images/404.svg" }}
+    <img src="{{ $img.RelPermalink }}" alt="404 image" />
+    <p>Blob could not find what you're looking for.</p>
+</div>
+{{- end }}

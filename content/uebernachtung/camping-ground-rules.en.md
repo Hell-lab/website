@@ -1,5 +1,5 @@
 +++
-title = "Packing List"
+title = "Campingground Rules"
 
 [build]
   list = "never"

@@ -1,8 +1,8 @@
 +++
-title = "How to Barcamp"
+title = "Foto Policy"
 
 [build]
   list = "never"
 +++
 
-Lang DE
+Lang: DE

@@ -1,28 +1,34 @@
----
-title: Loremipsum
-disqus: dolor sit amet
----
++++
+title = "Dahoåm"
++++
 
-Lorem Ipsum
+Håck ma's!
 ===
 
 
 
-## Lorem ipsum
+## Let's hack the Castle!
 
-### dolor sit amet,
+### 27. - 30.08.26
 
-consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Im Schloss ist ein neuer Gast aufgetaucht: **Blob**.
 
+Ein neugieriges Tentakelwesen, das aus einem Atomkraftwerk entkommen ist und jetzt versucht zu verstehen, wie unsere Welt funktioniert.
 
+![Blob, das diesjährige Maskottchen, wie es das Schloss umarmt.](images/Castleonly.svg)
 
-## Sed ut perspiciatis unde omnis
+### Schloss öffnen
 
-iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Håck ma's Castle ist ein offenes Schloss für alle Arten von Nerds. Wir wollen das Schloss als inklusiven Ort nutzen, als einen niederschwelligen Einstieg, um Wissen zu vermitteln und Erfahrungen auszutauschen. Håcken steht dabei für den kreatven Umgang mit Technik zum Beispiel bei Computern, Nähmaschinen, der Gesellschaft und Herdplatten (Essen ist wichtig!).
 
-![Image alt](images/kraken.svg)
+Niemand soll sich aufgrund fehlenden Wissens, (bisher) fehlender Zugehörigkeit oder fehlender Erfahrung ausgeschlossen fühlen. Unser Schloss hat keine geheimen Türen – nur offene Räume, in denen man gemeinsam tüfteln, lernen und staunen kann.
 
+Inklusion wird dabei von Anfang an mitgedacht, sowohl im Orgateam als auch an der konkreten Umsetzung vor Ort mit ÖGS-Dolmetschung, Blindenleitsystems, Rampen, Ruheraum uvm.
 
+### Come as you are and be excellent to each other
 
-* Lorem ispum
-* dolor sit amet
+Dass alle Spaß an der Teilnahme haben, ist eines der wichtigsten Ziele der Veranstaltung. Damit sich alle wohlfühlen können, achten wir auf einen respektvollen, achtsamen und solidarischen Umgang miteinander.
+
+Egal ob Anfänger*in oder Profi, ob zum ersten Mal dabei oder schon lange Teil der Community: Alle sollen sich willkommen und sicher fühlen. Grenzen werden respektiert, Diskriminierung hat keinen Platz und wir gehen freundlich und unterstützend miteinander um.
+
+Die Grundlage dafür ist unser [Code of Conduct]({{< relref "codeofconduct/_index.md" >}}), an dem wir uns gemeinsam orientieren.

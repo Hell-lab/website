@@ -1,5 +1,8 @@
----
-title: "Info Links"
----
++++
+title = "Info Links"
+
+[build]
+  list = "never"
++++
 
 Lang: DE

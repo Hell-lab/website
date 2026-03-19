@@ -1,11 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>EtherTools on Håck ma&#39;s!</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in EtherTools on Håck ma&#39;s!</description>
+    <title>Dahoåm on Håck ma&#39;s!</title>
+    <link>http://localhost:34971/</link>
+    <description>Recent content in Dahoåm on Håck ma&#39;s!</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>de</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34971/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accesssibility</title>
+      <link>http://localhost:34971/accesssibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34971/accesssibility/</guid>
+      <description>&lt;p&gt;Das Schloss und die Veranstaltung sind nur eingeschränkt zugänglich. Aufgrund der alten Bauweise gibt es erhebliche Barrieren. Auf dieser Seite findest du Informationen zu den zu erwartenden Barrieren, sowieso zu den getroffenen Maßnahmen.&lt;/p&gt;
+&lt;h2 id=&#34;rollstuhltauglichkeit-und-physische-barrieren&#34;&gt;Rollstuhltauglichkeit und physische Barrieren&lt;/h2&gt;
+&lt;p&gt;Das Schloss ist nicht Rollstuhlgerecht gebaut.&lt;/p&gt;
+&lt;p&gt;Im Detail konnten wir die folgenden Probleme für die Benützung mit einem Rollstuhl erkennen. Für einen Teil der Probleme werden wir Lösungen entwickeln, diese haben wir ebenfalls beschrieben.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:34971/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34971/privacy/</guid>
+      <description>&lt;h2 id=&#34;verantwortlicher&#34;&gt;Verantwortlicher&lt;/h2&gt;
+&lt;p&gt;Verantwortlich für den Schutz der personenbezogenen Daten ist der Chaos Computer Club Wien (C3W; ZVR 656204875), vertreten durch den Vorstand.&lt;/p&gt;
+&lt;p&gt;datenschutz @ c3w . at&lt;/p&gt;
+&lt;h2 id=&#34;webseiten&#34;&gt;Webseiten&lt;/h2&gt;
+&lt;p&gt;Auf den Websiten des C3W wird kein Tracking verwendet. Es werden keinerlei personenbezogene Daten erfasst. Auch IP-Adressen werden nicht geloggt.&lt;/p&gt;
+&lt;h2 id=&#34;e-mail&#34;&gt;E-Mail&lt;/h2&gt;
+&lt;p&gt;Wenn Du uns eine E-Mail zukommen lässt (z.B. über kontakt @ hack-mas . at), oder in unserem C3W-internen Ticketsystem, welches ebenfalls von mehreren Menschen des Vereins betreut wird. E-Mails und Tickets werden üblicherweise nach 24 Monaten (2 GV Perioden) gelöscht, außer es liegen Gründe für eine weitere Aufbewahrung (wie z.B. Geltendmachung oder Abwehr von Rechtsansprüchen, etc.) vor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:34971/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34971/imprint/</guid>
+      <description>&lt;p&gt;Verantwortlich für den Inhalt dieser Website ist der Chaos Computer Club Wien (C3W).&lt;/p&gt;
+&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;
+&lt;p&gt;Möglichkeiten zur Kontaktaufnahme gibt es hier:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;kontakt ät hack-mas.at&lt;/p&gt;
+&lt;p&gt;buero ät c3w.at&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;zustelladresse&#34;&gt;Zustelladresse&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Chaos Computer Club Wien (C3W)&lt;/p&gt;
+&lt;p&gt;ZVR 656204875&lt;/p&gt;
+&lt;p&gt;c/o Metalab&lt;/p&gt;
+&lt;p&gt;Rathausstraße 6&lt;/p&gt;
+&lt;p&gt;1010 Wien&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;bankverbindung&#34;&gt;Bankverbindung&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Chaos Computer Club Wien (C3W)&lt;/p&gt;
+&lt;p&gt;IBAN: AT68 2011 1828 3873 4200&lt;/p&gt;
+&lt;p&gt;BIC: GIBAATWWXXX (Erste Bank der österreichischen Sparkassen AG)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:34971/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34971/contact/</guid>
+      <description>&lt;p&gt;Lang: DE&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>http://localhost:34971/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34971/team/</guid>
+      <description>&lt;p&gt;Lang DE&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tickets</title>
+      <link>http://localhost:34971/tickets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:34971/tickets/</guid>
+      <description>&lt;h2 id=&#34;wie-komme-ich-den-zu-tickets&#34;&gt;Wie komme ich den zu Tickets?&lt;/h2&gt;
+&lt;p&gt;Wir haben für euch Tickets in mehreren Kategorien vorbereitet. Solltet ihr bereits am Sonntag abreisen klickt euch bitte auch ein Busticket, da wir davon ausgehen, dass die eine öffentliche Verbindung am Sonntag nicht für alle ausreichen wird.&lt;/p&gt;
+&lt;p&gt;Der öffentliche Vorverkauf beginnt mit der Easterhegg.&lt;/p&gt;
+&lt;p&gt;Hier geht&amp;rsquo;s zum &lt;a href=&#34;https://pretix.eu/c3w/hackmas2026/&#34;&gt;Håck ma&amp;rsquo;s Ticketshop&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;welche-tickets-gibt-es&#34;&gt;Welche Tickets gibt es?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ticket: 168 € Early-Bird, wenn alle Early-Bird Tickets verkauft wurden beträgt der reguläre Ticketpreis 178 €.&lt;/li&gt;
+&lt;li&gt;Supporter: Mit diesen Tickets unterstützt du das Event und finanzierst das Friends-Ticket.&lt;/li&gt;
+&lt;li&gt;Friends: Auf Anfrage kannst du ein Friends-Ticket mit reduziertem Ticketpreis erhalten.&lt;/li&gt;
+&lt;li&gt;Merch: T-Shirts für 25 € und Zipper für 55 €, fitted oder straight.&lt;/li&gt;
+&lt;li&gt;Shuttle: 12 € für die Abreise am Sonntagabend.&lt;/li&gt;
+&lt;li&gt;Carvan: 70 €&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

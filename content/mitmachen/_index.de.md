@@ -1,5 +1,5 @@
----
-title: "Mitmachen & Mitarbeiten"
----
++++
+title = "Mitmachen & Mitarbeiten"
++++
 
 Lang DE
