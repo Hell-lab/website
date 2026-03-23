@@ -12,6 +12,8 @@ enableRobotsTXT = true
   mainSections = ["posts"]
   ShowRelatedContent = false
   ShowPostNavLinks = false
+  author = "Håck ma's Orga"
+  email = "kontakt@hack-mas.at"
 
 [params.label]
   text = ""
@@ -36,11 +38,6 @@ weight = 2
 name = "Tickets"
 url = "/tickets/"
 weight = 3
-
-[[languages.de.menu.main]]
-name = "Team"
-url = "/team/"
-weight = 4
 
 [[languages.de.menu.main]]
 name = "Kontakt"
@@ -97,11 +94,6 @@ weight = 2
 name = "Tickets"
 url = "/en/tickets/"
 weight = 3
-
-[[languages.en.menu.main]]
-name = "Team"
-url = "/en/team/"
-weight = 4
 
 [[languages.en.menu.main]]
 name = "Contact"
