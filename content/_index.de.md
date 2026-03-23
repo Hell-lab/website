@@ -5,8 +5,6 @@ title = "Dahoåm"
 Håck ma's!
 ===
 
-
-
 ## Let's hack the Castle!
 
 ### 27. - 30.08.26
@@ -23,7 +21,7 @@ Håck ma's Castle ist ein offenes Schloss für alle Arten von Nerds. Wir wollen 
 
 Niemand soll sich aufgrund fehlenden Wissens, (bisher) fehlender Zugehörigkeit oder fehlender Erfahrung ausgeschlossen fühlen. Unser Schloss hat keine geheimen Türen – nur offene Räume, in denen man gemeinsam tüfteln, lernen und staunen kann.
 
-Inklusion wird dabei von Anfang an mitgedacht, sowohl im Orgateam als auch an der konkreten Umsetzung vor Ort mit ÖGS-Dolmetschung, Blindenleitsystems, Rampen, Ruheraum uvm.
+Um die vielseitigen Barrieren unserer Gesellschaft abzubauen legen wir auch ein starkes Augenmerk auf Inklusion und versuche mit Maßnahmen wie ÖGS-Dolmetschung, Blindenleitsystemen oder Rückzugsräumen Barrieren abzubauen.
 
 ### Come as you are and be excellent to each other
 

@@ -1,2 +1,19 @@
-{{ $js := resources.Get "js/sidemenu.js" | minify | fingerprint }}
-<script src="{{ $js.RelPermalink }}" defer></script>
+{{ with resources.Get "js/sidemenu.js" }}
+  {{ $sidemenu := . | minify | fingerprint }}
+  <script src="{{ $sidemenu.RelPermalink }}" defer></script>
+{{ end }}
+
+{{ with resources.Get "js/faqaccordion.js" }}
+  {{ $faqaccordion := . | minify | fingerprint }}
+  <script src="{{ $faqaccordion.RelPermalink }}" defer></script>
+{{ end }}
+
+{{ with resources.Get "js/checklist.js" }}
+  {{ $checklist := . | minify | fingerprint }}
+  <script src="{{ $checklist.RelPermalink }}" defer></script>
+{{ end }}
+
+{{ with resources.Get "images/favicon.png" }}
+  {{ $fav := . | fingerprint }}
+  <link rel="icon" type="image/png" href="{{ $fav.RelPermalink }}">
+{{ end }}

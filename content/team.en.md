@@ -1,5 +1,0 @@
-+++
-title = "Team"
-+++
-
-Lang EN

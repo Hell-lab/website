@@ -1,0 +1,6 @@
+<details {{ if eq (.Get "open") "true" }}open{{ end }}>
+  <summary class="faq-topic">{{ .Get "title" }}</summary>
+  <div class="faq-content faq-markdown">
+    {{ .Inner | .Page.RenderString }}
+  </div>
+</details>

@@ -33,3 +33,7 @@ Möglichkeiten zur Kontaktaufnahme gibt es hier:
 > BIC: GIBAATWWXXX (Erste Bank der österreichischen Sparkassen AG)
 
 ## Urheberrecht
+
+Grafik, Gestaltung und Design: © squishi, helena und fussel
+
+Fotos: © fussel, lasii, ripper, cupro und eest9
