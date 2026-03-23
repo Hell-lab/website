@@ -55,8 +55,8 @@ url = "/codeofconduct/"
 weight = 2
 
 [[languages.de.menu.side]]
-name = "Accesssibility"
-url = "/accesssibility/"
+name = "Accessibility"
+url = "/accessibility/"
 weight = 3
 
 [[languages.de.menu.side]]
@@ -111,8 +111,8 @@ url = "/en/codeofconduct/"
 weight = 2
 
 [[languages.en.menu.side]]
-name = "Accesssibility"
-url = "/en/accesssibility/"
+name = "Accessibility"
+url = "/en/accessibility/"
 weight = 3
 
 [[languages.en.menu.side]]

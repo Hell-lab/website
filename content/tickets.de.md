@@ -3,7 +3,7 @@ title = "Tickets"
 +++
 ## Wie komme ich denn zu Tickets?
 
-Wir haben für dich Tickets in mehreren Kategorien vorbereitet. Solltedt du bereits am Sonntag abreisen klick dir bitte auch ein Busticket, da wir davon ausgehen, dass die eine öffentliche Verbindung am Sonntag nicht für alle ausreichen wird.
+Wir haben für dich Tickets in mehreren Kategorien vorbereitet. Solltest du bereits am Sonntag abreisen, klick dir bitte auch ein Busticket, da wir davon ausgehen, dass eine öffentliche Verbindung am Sonntag nicht für alle ausreichen wird.
 
 Der öffentliche Vorverkauf beginnt mit der Easterhegg.
 

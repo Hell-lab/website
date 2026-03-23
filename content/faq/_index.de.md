@@ -7,17 +7,17 @@ title = "Frequently Asked Questions oder was du schon immer vom Event wissen wol
 **Wann:** Mittwoch, 26. August 2026 - Sonntag, 30. August 2026  
 **Wo:** Schloss Ottenschlag - Schloss 1, 3631 Ottenschlag, Österreich  
 **Tickets:** [Tickets]({{< relref "tickets.md" >}})   
-**Merch:** TODO link  
-**Matrix:** TODO link  
-**Barcamp:** TODO link  
+**Merch:** tbd  
+**Matrix:** [Fragenchannel](https://matrix.to/#/!eHnqbg05n_8aSW5OrAPLq2CsgCXSLPle42wWWgHsll4?)  
+**Barcamp:** tbd  
 **Shuttle/Anreise:** [Anreise]({{< relref "anreise/_index.md" >}})
 
 **Kontakt:** kontakt@hack-mas.at  
 **Mastodon:** https://chaos.social/@hackmas
 
-**Awareness:** TODO kontaktinfos  
-**CERT:** TODO kontaktinfos  
-**PL:** TODO kontaktinfos
+**Awareness:** tbd  
+**CERT:** tbd  
+**PL:** tbd  
 {{< /faqtopic >}}
 
 {{< faqtopic title="Generelles">}}
@@ -43,7 +43,7 @@ Ja! Das Håck ma’s ist eine super Gelegenheit um die Chaos-Bubble und neue Wes
 Spaß, Neugier und für Dinge zum Einpacken haben wir eine [Packliste]({{< relref "packliste.md" >}}).
 
 ### Gibt es einen Veranstaltungschat?
-Ja, wir haben einen Matrix-Chat, dem alle beitreten können, damit sich Teilnehmende austauschen können. TODO: Link bzw. erklären wie zugang
+Ja, wir haben einen Matrix-Chat, dem alle beitreten können, damit sich Teilnehmende austauschen können. Den Link dafür bekommst du nach deiner Anmeldung. Für Fragen im Vorhinein an das Orgateam und/oder andere Wesen, kannst du diesen [Chat](https://matrix.to/#/!eHnqbg05n_8aSW5OrAPLq2CsgCXSLPle42wWWgHsll4?) verwenden.
 {{< /faqtopic >}}
 
 {{< faqtopic title="Vor Ort">}}
@@ -60,7 +60,7 @@ Ja. Weitere Informationen findest du hier: [Foto- und Videopolicy]({{< relref "c
 Ja. Zu finden hier: [Code of Conduct]({{< relref "codeofconduct/_index.md" >}})
 
 ### Wie sieht es mit Accessibility und Barrierefreiheit aus?
-Wir bemühen uns, ein Event auf die Beine zu stellen, an dem möglichst viele Wesen teilnehmen können. Detaillierte Infos zu Accessibility und Barrierefreiheit findest du hier: [Accessibility]({{< relref "accesssibility.md" >}})
+Wir bemühen uns, ein Event auf die Beine zu stellen, an dem möglichst viele Wesen teilnehmen können. Detaillierte Infos zu Accessibility und Barrierefreiheit findest du hier: [Accessibility]({{< relref "accessibility.md" >}})
 
 ### An wen kann ich mich vor Ort bei Schwierigkeiten oder Problemen wenden?
 Vor Ort wird es ein Awareness-Team geben, an das du dich wenden kannst, wenn du dich nicht wohlfühlst: TODO kontaktinfos  

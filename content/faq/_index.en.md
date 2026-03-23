@@ -8,17 +8,17 @@ title = "Frequently Asked Questions, or everything you ever wanted to know about
 **When:** Wednesday, 26 August 2026 – Sunday, 30 August 2026  
 **Where:** Ottenschlag Castle – Castle 1, 3631 Ottenschlag, Austria  
 **Tickets:** [Tickets]({{< relref "tickets.md" >}})   
-**Merch:** TODO link  
-**Matrix:** TODO link  
-**Barcamp:** TODO link  
+**Merch:** tbd  
+**Matrix:** [Channel for Questions](https://matrix.to/#/!eHnqbg05n_8aSW5OrAPLq2CsgCXSLPle42wWWgHsll4?)  
+**Barcamp:** tbd  
 **Shuttle/Travel:** [Travel]({{< relref "anreise/_index.md" >}})
 
 **Contact:** kontakt@hack-mas.at  
 **Mastodon:** https://chaos.social/@hackmas
 
-**Awareness:** TODO contact details  
-**CERT:** TODO contact details  
-**PL:** TODO contact details
+**Awareness:** tbd  
+**CERT:** tbd  
+**PL:** tbd  
 {{< /faqtopic >}}
 
 {{< faqtopic title="General">}}
@@ -45,7 +45,7 @@ Yes! Håck ma’s is a great opportunity to get to know the Chaos Bubble and mee
 A sense of fun and curiosity – and we’ve got a [packing list]({{< relref "packliste.md" >}}) for the essentials..
 
 ### Gibt es einen Veranstaltungschat?
-Ja, wir haben einen Matrix-Chat, dem alle beitreten können, damit sich Teilnehmende austauschen können. TODO: Link bzw. erklären wie zugang
+Yes, we have a Matrix chat that anyone can join so that participants can chat with one another. You’ll receive the link after you’ve registered. If you have any questions for the organising team and/or other participants in advance, you can use this [chat](https://matrix.to/#/!eHnqbg05n_8aSW5OrAPLq2CsgCXSLPle42wWWgHsll4?).
 {{< /faqtopic >}}
 
 {{< faqtopic title="On site">}}
@@ -62,12 +62,12 @@ Yes. You can find further information here: [Photo and Video Policy]({{< relref 
 Yes. You can find it here: [Code of Conduct]({{< relref "codeofconduct/_index.md" >}})
 
 ### What about accessibility?
-We strive to organise an event that as many people as possible can attend. You can find detailed information on accessibility here: [Accessibility]({{< relref "accesssibility.md" >}})
+We strive to organise an event that as many people as possible can attend. You can find detailed information on accessibility here: [Accessibility]({{< relref "accessibility.md" >}})
 
 ### Who can I contact on site if I encounter difficulties or problems?
-There will be an Awareness Team on site that you can contact if you feel uncomfortable: TODO contact details  
-If you have a physical disability, please contact the CERT: TODO contact details  
-For all other matters or if you are unsure, please feel free to approach the PL: TODO contact details 
+There will be an Awareness Team on site that you can contact if you feel uncomfortable: tbd
+If you have a physical disability, please contact the CERT: tbd
+For all other matters or if you are unsure, please feel free to approach the PL: tbd
 
 ### Will there be a DECT network?
 Probably. Details to follow soon. 
